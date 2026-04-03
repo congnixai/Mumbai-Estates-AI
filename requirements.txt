@@ -1,10 +1,20 @@
+# Core Framework
 streamlit
+
+# Data Manipulation & Math
 pandas
 numpy
+
+# Machine Learning & Model Loading
 joblib
+xgboost
+scikit-learn
+
+# Visualization
 plotly
 matplotlib
 seaborn
-xgboost
+
+# PDF Generation & Image Processing
 fpdf
 kaleido
