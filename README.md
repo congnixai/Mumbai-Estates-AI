@@ -77,7 +77,7 @@ Mumbai real estate data is notoriously right-skewed due to ultra-luxury outliers
 
 ```bash
 git clone https://github.com/congnixai/Mumbai-Estates-AI.git
-cd mumbai-real-estate-ai
+cd Mumbai-Estates-AI
 ```
 
 ### 2\. Install Dependencies
