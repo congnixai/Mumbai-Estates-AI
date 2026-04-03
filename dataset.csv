@@ -1,0 +1,1001 @@
+Locality,Municipality,Property_Type,BHK,Carpet_Area_SqFt,Floor_No,Parking_Spaces,Age_Years,Price_Cr
+Kharghar,NMMC,Standard,1,421,21,1,6,0.63
+Mira Road,MBMC,Standard,1,437,36,1,7,0.63
+Thane West,TMC,Standard,1,437,30,1,5,0.92
+Worli,BMC,Standard,1,407,22,1,28,2.06
+Kalyan,KDMC,Standard,2,728,3,1,4,0.62
+Bandra West,BMC,Standard,2,734,4,1,24,3.66
+Worli,BMC,Standard,1,479,20,1,27,2.42
+Kharghar,NMMC,Standard,3,1152,14,1,16,1.42
+Andheri West,BMC,Standard,2,966,4,1,21,2.31
+Worli,BMC,Standard,3,1089,31,1,15,7.31
+Thane West,TMC,Standard,2,778,21,1,15,1.33
+Worli,BMC,Standard,2,946,29,1,14,6.34
+Malabar Hill,BMC,Standard,2,956,8,1,23,6.77
+Bandra West,BMC,Standard,2,764,5,1,9,4.77
+Kharghar,NMMC,Standard,3,1263,12,1,1,1.87
+Malabar Hill,BMC,Standard,1,386,35,1,11,4.14
+Thane West,TMC,Standard,2,900,14,1,2,1.72
+Malabar Hill,BMC,Standard,1,491,39,1,26,4.3
+Kalyan,KDMC,Standard,1,473,13,1,18,0.36
+Kharghar,NMMC,Standard,2,962,30,1,4,1.6
+Kharghar,NMMC,Standard,2,756,36,1,12,1.19
+Kharghar,NMMC,Standard,1,415,6,1,27,0.4
+Andheri West,BMC,Luxury,5,3635,47,3,24,14.7
+Kharghar,NMMC,Luxury,3,2928,32,2,8,4.71
+Bandra West,BMC,Standard,2,972,37,1,0,8.98
+Bandra West,BMC,Standard,1,408,32,1,23,2.63
+Kalyan,KDMC,Standard,1,401,12,1,29,0.25
+Kharghar,NMMC,Standard,1,462,17,1,26,0.5
+Malabar Hill,BMC,Luxury,4,3768,51,2,0,65.33
+Malabar Hill,BMC,Standard,1,417,11,1,23,3.04
+Malabar Hill,BMC,Standard,1,465,34,1,5,5.36
+Vashi,NMMC,Standard,1,446,9,1,27,0.66
+Vashi,NMMC,Standard,3,1488,26,1,2,3.69
+Bandra West,BMC,Standard,1,477,39,1,17,3.56
+Thane West,TMC,Standard,1,391,35,1,6,0.85
+Mira Road,MBMC,Luxury,3,1803,31,2,4,2.6
+Borivali West,BMC,Luxury,5,3040,54,2,18,9.77
+Bandra West,BMC,Luxury,4,2876,43,2,19,26.81
+Malabar Hill,BMC,Standard,3,1299,35,1,15,13.15
+Kalyan,KDMC,Standard,1,477,18,1,1,0.48
+Vashi,NMMC,Standard,3,1251,33,1,13,2.84
+Borivali West,BMC,Standard,1,485,7,1,2,1.06
+Malabar Hill,BMC,Standard,2,928,22,1,22,7.59
+Vashi,NMMC,Standard,3,1374,8,1,26,2.04
+Worli,BMC,Standard,2,920,33,1,4,7.29
+Bandra West,BMC,Standard,2,732,28,1,29,4.11
+Borivali West,BMC,Luxury,3,1908,48,3,16,6.06
+Borivali West,BMC,Standard,3,1395,21,1,22,2.62
+Malabar Hill,BMC,Standard,1,374,31,1,21,3.35
+Mira Road,MBMC,Luxury,4,3516,51,3,14,5.13
+Vashi,NMMC,Standard,1,479,26,1,16,0.98
+Thane West,TMC,Standard,2,776,29,1,9,1.54
+Kharghar,NMMC,Standard,1,362,7,1,24,0.37
+Andheri West,BMC,Standard,2,986,14,1,11,2.99
+Bandra West,BMC,Standard,1,415,32,1,22,2.72
+Vashi,NMMC,Standard,1,474,22,1,25,0.82
+Mira Road,MBMC,Standard,1,419,15,1,21,0.41
+Borivali West,BMC,Standard,2,914,5,1,6,1.87
+Andheri West,BMC,Luxury,4,2584,59,2,19,12.29
+Worli,BMC,Standard,1,494,19,1,27,2.47
+Mira Road,MBMC,Standard,1,466,23,1,8,0.6
+Borivali West,BMC,Standard,3,1149,32,1,29,2.09
+Vashi,NMMC,Standard,2,932,1,1,15,1.6
+Kharghar,NMMC,Standard,2,884,3,1,11,1.07
+Mira Road,MBMC,Standard,2,756,14,1,27,0.67
+Borivali West,BMC,Standard,1,493,26,1,25,0.92
+Borivali West,BMC,Standard,1,450,23,1,25,0.82
+Mira Road,MBMC,Luxury,4,3116,29,2,25,3.25
+Bandra West,BMC,Standard,3,1254,4,1,15,7.2
+Thane West,TMC,Luxury,4,3932,46,3,19,7.7
+Thane West,TMC,Standard,2,764,33,1,28,1.17
+Bandra West,BMC,Luxury,5,3320,59,2,9,39.91
+Worli,BMC,Standard,2,860,26,1,7,6.2
+Mira Road,MBMC,Standard,1,464,7,1,3,0.55
+Mira Road,MBMC,Standard,2,938,36,1,24,1.05
+Borivali West,BMC,Luxury,4,3824,43,2,2,14.16
+Malabar Hill,BMC,Standard,1,445,24,1,22,3.7
+Borivali West,BMC,Standard,2,744,25,1,2,1.92
+Kalyan,KDMC,Standard,2,866,25,1,21,0.7
+Bandra West,BMC,Standard,1,496,12,1,8,3.36
+Kharghar,NMMC,Luxury,5,4915,38,3,25,6.41
+Borivali West,BMC,Standard,2,944,21,1,3,2.32
+Borivali West,BMC,Standard,2,916,39,1,13,2.28
+Mira Road,MBMC,Standard,3,1272,18,1,14,1.44
+Kalyan,KDMC,Standard,2,712,13,1,7,0.63
+Mira Road,MBMC,Standard,3,1062,29,1,4,1.5
+Vashi,NMMC,Luxury,3,2760,36,3,6,7.05
+Kalyan,KDMC,Standard,1,368,39,1,26,0.31
+Mira Road,MBMC,Luxury,5,3625,32,2,17,4.4
+Mira Road,MBMC,Standard,2,952,39,1,0,1.53
+Bandra West,BMC,Standard,3,1386,25,1,23,8.43
+Malabar Hill,BMC,Standard,3,1179,32,1,12,12.18
+Borivali West,BMC,Standard,3,1488,20,1,24,2.68
+Worli,BMC,Standard,1,492,31,1,0,4.03
+Borivali West,BMC,Standard,1,361,10,1,15,0.68
+Thane West,TMC,Standard,1,466,8,1,25,0.6
+Andheri West,BMC,Standard,1,377,28,1,4,1.41
+Kalyan,KDMC,Standard,2,988,9,1,0,0.92
+Borivali West,BMC,Luxury,3,2988,54,3,28,8.13
+Vashi,NMMC,Luxury,3,2706,21,2,9,5.88
+Thane West,TMC,Luxury,5,4820,52,2,21,9.54
+Malabar Hill,BMC,Standard,3,1080,21,1,25,8.33
+Kalyan,KDMC,Luxury,5,3880,52,2,1,5.07
+Kalyan,KDMC,Standard,1,404,6,1,27,0.25
+Malabar Hill,BMC,Standard,2,704,23,1,4,7.51
+Borivali West,BMC,Luxury,4,2728,40,2,13,8.55
+Kalyan,KDMC,Standard,3,1059,1,1,16,0.77
+Thane West,TMC,Standard,1,421,39,1,25,0.71
+Mira Road,MBMC,Standard,2,944,12,1,0,1.21
+Vashi,NMMC,Luxury,4,3284,36,2,15,7.41
+Kharghar,NMMC,Standard,2,830,11,1,18,0.97
+Kharghar,NMMC,Standard,1,387,34,1,17,0.56
+Bandra West,BMC,Luxury,3,2295,43,2,14,23.06
+Kharghar,NMMC,Standard,2,756,4,1,9,0.94
+Thane West,TMC,Luxury,3,2817,24,3,1,5.96
+Vashi,NMMC,Standard,1,392,11,1,18,0.68
+Kalyan,KDMC,Standard,2,934,16,1,7,0.85
+Andheri West,BMC,Standard,1,445,3,1,26,0.98
+Worli,BMC,Standard,1,370,5,1,17,1.91
+Mira Road,MBMC,Standard,1,350,5,1,8,0.38
+Mira Road,MBMC,Luxury,3,2031,46,3,8,3.11
+Mira Road,MBMC,Standard,2,810,30,1,10,1.07
+Malabar Hill,BMC,Standard,3,1386,35,1,28,11.37
+Andheri West,BMC,Standard,1,363,26,1,27,0.95
+Kharghar,NMMC,Standard,2,726,7,1,2,1.01
+Kharghar,NMMC,Standard,2,734,38,1,2,1.33
+Bandra West,BMC,Standard,1,377,10,1,6,2.57
+Kalyan,KDMC,Luxury,4,2900,44,3,16,2.93
+Andheri West,BMC,Standard,1,458,18,1,14,1.38
+Andheri West,BMC,Standard,2,714,19,1,9,2.32
+Kalyan,KDMC,Standard,3,1239,34,1,26,0.99
+Thane West,TMC,Standard,1,470,33,1,20,0.82
+Vashi,NMMC,Standard,1,461,4,1,29,0.63
+Thane West,TMC,Luxury,5,4930,50,2,7,11.79
+Borivali West,BMC,Luxury,5,3025,39,3,27,7.54
+Andheri West,BMC,Standard,3,1329,38,1,18,4.43
+Kalyan,KDMC,Standard,2,750,5,1,5,0.63
+Mira Road,MBMC,Standard,2,738,12,1,14,0.79
+Malabar Hill,BMC,Standard,1,386,11,1,3,3.75
+Bandra West,BMC,Standard,1,359,5,1,22,1.85
+Mira Road,MBMC,Luxury,3,2301,39,3,0,3.7
+Borivali West,BMC,Standard,1,492,24,1,5,1.21
+Kharghar,NMMC,Standard,1,418,14,1,20,0.48
+Thane West,TMC,Luxury,4,2700,54,2,0,7.24
+Thane West,TMC,Standard,1,442,8,1,10,0.72
+Kalyan,KDMC,Standard,2,768,21,1,4,0.76
+Borivali West,BMC,Standard,2,822,4,1,24,1.29
+Mira Road,MBMC,Standard,3,1164,14,1,18,1.19
+Vashi,NMMC,Standard,2,988,33,1,14,2.21
+Kharghar,NMMC,Standard,1,453,39,1,18,0.67
+Vashi,NMMC,Luxury,5,3890,34,3,14,8.77
+Malabar Hill,BMC,Standard,3,1161,33,1,28,9.37
+Borivali West,BMC,Standard,1,435,2,1,9,0.85
+Borivali West,BMC,Luxury,3,2151,32,3,14,6.25
+Andheri West,BMC,Standard,2,728,29,1,7,2.65
+Borivali West,BMC,Standard,2,958,27,1,18,2.02
+Bandra West,BMC,Standard,2,752,5,1,19,4.06
+Mira Road,MBMC,Standard,1,372,26,1,13,0.46
+Mira Road,MBMC,Standard,2,920,12,1,11,1.03
+Andheri West,BMC,Luxury,3,2925,27,2,9,12.73
+Malabar Hill,BMC,Standard,2,800,29,1,13,7.95
+Thane West,TMC,Luxury,5,4280,56,3,20,8.84
+Mira Road,MBMC,Luxury,4,3648,59,2,14,5.61
+Borivali West,BMC,Standard,2,812,26,1,8,1.95
+Bandra West,BMC,Standard,2,848,38,1,1,7.8
+Kharghar,NMMC,Standard,2,732,24,1,24,0.87
+Kharghar,NMMC,Standard,1,378,22,1,25,0.43
+Worli,BMC,Standard,1,433,20,1,21,2.42
+Vashi,NMMC,Standard,3,1194,7,1,0,2.56
+Kharghar,NMMC,Standard,2,822,32,1,29,0.95
+Malabar Hill,BMC,Standard,2,736,18,1,0,7.9
+Bandra West,BMC,Standard,2,924,30,1,5,7.6
+Bandra West,BMC,Standard,1,404,39,1,2,3.7
+Mira Road,MBMC,Standard,2,946,33,1,22,1.07
+Kharghar,NMMC,Standard,2,884,8,1,0,1.27
+Kalyan,KDMC,Standard,1,421,37,1,2,0.49
+Bandra West,BMC,Standard,1,384,32,1,23,2.47
+Thane West,TMC,Luxury,3,2343,33,2,22,3.97
+Worli,BMC,Standard,1,434,19,1,15,2.64
+Bandra West,BMC,Standard,2,702,1,1,14,4.09
+Borivali West,BMC,Standard,1,479,3,1,22,0.78
+Kharghar,NMMC,Standard,2,972,34,1,20,1.33
+Bandra West,BMC,Luxury,4,3852,36,3,9,39.38
+Thane West,TMC,Luxury,5,3635,36,3,17,6.82
+Bandra West,BMC,Standard,2,748,39,1,8,6.34
+Vashi,NMMC,Standard,2,756,34,1,22,1.51
+Borivali West,BMC,Standard,3,1302,36,1,8,3.39
+Vashi,NMMC,Standard,2,942,12,1,22,1.56
+Borivali West,BMC,Standard,1,406,31,1,5,1.06
+Thane West,TMC,Standard,2,804,7,1,9,1.32
+Malabar Hill,BMC,Standard,1,471,2,1,27,3.02
+Vashi,NMMC,Standard,1,385,26,1,28,0.65
+Borivali West,BMC,Luxury,5,3815,58,2,7,14.7
+Bandra West,BMC,Luxury,5,3550,41,3,4,40.22
+Thane West,TMC,Standard,1,497,19,1,2,1.0
+Andheri West,BMC,Standard,2,916,34,1,8,3.42
+Mira Road,MBMC,Standard,1,389,17,1,0,0.52
+Kalyan,KDMC,Standard,2,748,39,1,2,0.88
+Bandra West,BMC,Standard,1,451,34,1,11,3.53
+Bandra West,BMC,Standard,3,1194,17,1,9,8.35
+Kalyan,KDMC,Standard,1,411,16,1,23,0.3
+Bandra West,BMC,Standard,3,1401,16,1,5,10.23
+Thane West,TMC,Standard,2,984,26,1,8,1.94
+Mira Road,MBMC,Standard,2,988,23,1,25,0.98
+Borivali West,BMC,Standard,1,428,7,1,8,0.87
+Bandra West,BMC,Luxury,4,3656,48,2,17,36.41
+Andheri West,BMC,Luxury,4,2808,33,2,23,10.41
+Bandra West,BMC,Standard,2,960,37,1,10,7.81
+Thane West,TMC,Standard,2,776,15,1,23,1.11
+Malabar Hill,BMC,Standard,2,980,18,1,0,10.52
+Mira Road,MBMC,Luxury,4,3640,53,2,29,4.21
+Kharghar,NMMC,Standard,1,445,35,1,26,0.56
+Kharghar,NMMC,Standard,1,411,16,1,23,0.46
+Kalyan,KDMC,Standard,2,904,20,1,4,0.89
+Malabar Hill,BMC,Standard,1,491,30,1,17,4.64
+Andheri West,BMC,Standard,2,844,15,1,16,2.4
+Kalyan,KDMC,Standard,1,386,37,1,10,0.4
+Vashi,NMMC,Luxury,5,4505,30,3,29,7.71
+Worli,BMC,Standard,3,1224,8,1,19,6.33
+Vashi,NMMC,Standard,2,846,34,1,24,1.63
+Mira Road,MBMC,Standard,3,1407,6,1,4,1.62
+Borivali West,BMC,Standard,1,358,35,1,19,0.79
+Mira Road,MBMC,Standard,1,431,17,1,23,0.42
+Bandra West,BMC,Luxury,4,3472,44,3,8,38.17
+Andheri West,BMC,Standard,1,454,3,1,26,1.0
+Kalyan,KDMC,Standard,3,1074,15,1,7,0.97
+Kalyan,KDMC,Standard,1,473,15,1,5,0.44
+Thane West,TMC,Standard,1,495,6,1,4,0.86
+Borivali West,BMC,Luxury,4,2556,51,2,29,6.69
+Bandra West,BMC,Luxury,4,2556,32,2,12,24.31
+Malabar Hill,BMC,Luxury,5,4675,47,3,0,78.83
+Kalyan,KDMC,Standard,1,449,27,1,5,0.46
+Kharghar,NMMC,Luxury,3,2739,50,2,22,4.09
+Mira Road,MBMC,Standard,1,388,31,1,17,0.47
+Andheri West,BMC,Standard,2,722,39,1,1,3.06
+Malabar Hill,BMC,Standard,1,447,24,1,12,4.33
+Bandra West,BMC,Standard,1,423,32,1,1,3.72
+Borivali West,BMC,Standard,3,1335,36,1,17,3.06
+Andheri West,BMC,Standard,2,998,17,1,9,3.19
+Vashi,NMMC,Standard,2,798,14,1,14,1.52
+Andheri West,BMC,Standard,2,712,29,1,10,2.49
+Malabar Hill,BMC,Standard,2,814,23,1,25,6.39
+Worli,BMC,Standard,3,1344,13,1,8,8.53
+Kharghar,NMMC,Standard,3,1272,32,1,1,2.23
+Andheri West,BMC,Standard,1,430,28,1,28,1.12
+Borivali West,BMC,Luxury,3,2049,38,3,24,5.34
+Borivali West,BMC,Luxury,3,1971,57,3,14,6.85
+Worli,BMC,Standard,1,374,24,1,11,2.51
+Worli,BMC,Luxury,5,3355,44,3,16,30.62
+Borivali West,BMC,Standard,2,798,7,1,2,1.75
+Borivali West,BMC,Luxury,4,3944,34,3,24,9.96
+Kharghar,NMMC,Standard,2,716,38,1,15,1.09
+Kalyan,KDMC,Standard,2,932,2,1,23,0.61
+Thane West,TMC,Standard,2,842,21,1,17,1.4
+Worli,BMC,Standard,2,762,11,1,12,4.49
+Kalyan,KDMC,Luxury,4,3964,41,2,18,3.8
+Thane West,TMC,Standard,1,395,32,1,14,0.75
+Vashi,NMMC,Standard,2,892,2,1,0,1.87
+Malabar Hill,BMC,Luxury,4,2704,45,3,21,33.63
+Kharghar,NMMC,Standard,2,942,15,1,1,1.43
+Mira Road,MBMC,Standard,1,410,3,1,26,0.34
+Vashi,NMMC,Standard,2,780,12,1,7,1.61
+Thane West,TMC,Standard,3,1233,7,1,10,1.99
+Andheri West,BMC,Standard,2,742,26,1,2,2.8
+Kalyan,KDMC,Standard,2,722,23,1,11,0.67
+Kalyan,KDMC,Luxury,4,2984,55,2,12,3.45
+Thane West,TMC,Luxury,3,2346,37,3,5,5.24
+Worli,BMC,Standard,1,405,3,1,27,1.78
+Mira Road,MBMC,Standard,1,446,7,1,11,0.47
+Malabar Hill,BMC,Luxury,5,3115,56,3,3,53.85
+Andheri West,BMC,Standard,2,890,36,1,25,2.61
+Borivali West,BMC,Standard,2,856,34,1,3,2.34
+Vashi,NMMC,Standard,3,1422,12,1,2,3.12
+Worli,BMC,Standard,2,896,26,1,7,6.46
+Andheri West,BMC,Luxury,5,4485,33,3,13,19.38
+Worli,BMC,Standard,3,1170,14,1,23,6.0
+Kharghar,NMMC,Standard,2,838,17,1,26,0.9
+Kalyan,KDMC,Luxury,4,3048,24,2,0,3.26
+Thane West,TMC,Standard,1,396,31,1,10,0.79
+Mira Road,MBMC,Standard,1,442,10,1,11,0.48
+Kalyan,KDMC,Standard,1,350,20,1,27,0.24
+Kalyan,KDMC,Standard,1,398,28,1,14,0.37
+Vashi,NMMC,Standard,1,463,14,1,1,1.05
+Kalyan,KDMC,Standard,3,1134,1,1,22,0.75
+Bandra West,BMC,Standard,3,1254,33,1,16,9.08
+Bandra West,BMC,Standard,1,392,34,1,24,2.52
+Worli,BMC,Luxury,5,4110,42,3,11,39.71
+Vashi,NMMC,Standard,1,394,16,1,17,0.73
+Mira Road,MBMC,Standard,1,434,1,1,22,0.38
+Thane West,TMC,Standard,1,435,34,1,0,1.01
+Kharghar,NMMC,Luxury,5,3565,36,3,25,4.58
+Thane West,TMC,Luxury,3,2025,27,2,24,3.17
+Andheri West,BMC,Standard,1,491,5,1,8,1.42
+Mira Road,MBMC,Standard,1,412,9,1,0,0.51
+Kalyan,KDMC,Luxury,3,2016,32,2,8,2.08
+Andheri West,BMC,Standard,2,962,38,1,18,3.21
+Vashi,NMMC,Luxury,3,2634,30,2,0,6.91
+Thane West,TMC,Standard,2,984,1,1,11,1.54
+Mira Road,MBMC,Standard,2,818,29,1,24,0.87
+Malabar Hill,BMC,Standard,1,451,26,1,10,4.56
+Bandra West,BMC,Standard,2,716,3,1,20,3.81
+Mira Road,MBMC,Luxury,4,2864,45,2,24,3.43
+Borivali West,BMC,Standard,2,786,36,1,14,1.88
+Kharghar,NMMC,Luxury,4,3852,40,2,22,5.36
+Kharghar,NMMC,Luxury,3,2169,44,2,3,4.07
+Bandra West,BMC,Standard,3,1104,34,1,13,8.41
+Andheri West,BMC,Standard,1,376,29,1,14,1.24
+Bandra West,BMC,Standard,1,495,2,1,16,2.8
+Andheri West,BMC,Luxury,4,3448,29,2,6,15.87
+Kharghar,NMMC,Standard,2,782,36,1,19,1.11
+Andheri West,BMC,Standard,3,1407,13,1,22,3.58
+Vashi,NMMC,Luxury,4,3276,45,2,8,8.71
+Mira Road,MBMC,Standard,1,421,24,1,15,0.49
+Malabar Hill,BMC,Standard,2,798,24,1,18,7.07
+Andheri West,BMC,Standard,2,990,19,1,3,3.48
+Mira Road,MBMC,Standard,2,796,35,1,11,1.08
+Worli,BMC,Standard,2,998,37,1,14,7.12
+Bandra West,BMC,Standard,2,974,9,1,13,5.98
+Kalyan,KDMC,Standard,3,1152,7,1,20,0.8
+Worli,BMC,Standard,2,746,19,1,3,5.33
+Mira Road,MBMC,Standard,3,1374,36,1,7,1.98
+Borivali West,BMC,Luxury,5,3360,52,3,26,9.34
+Vashi,NMMC,Standard,1,398,2,1,27,0.57
+Borivali West,BMC,Standard,2,714,38,1,7,1.91
+Worli,BMC,Standard,1,407,3,1,21,1.98
+Vashi,NMMC,Standard,1,451,17,1,2,1.04
+Worli,BMC,Standard,1,499,36,1,4,4.05
+Kalyan,KDMC,Standard,2,940,16,1,11,0.82
+Malabar Hill,BMC,Standard,3,1056,16,1,29,7.26
+Kharghar,NMMC,Standard,1,354,20,1,7,0.52
+Thane West,TMC,Standard,3,1494,20,1,5,2.91
+Vashi,NMMC,Standard,2,730,12,1,5,1.54
+Andheri West,BMC,Standard,1,463,2,1,8,1.34
+Borivali West,BMC,Standard,1,424,3,1,19,0.72
+Kharghar,NMMC,Luxury,4,3640,54,3,21,5.68
+Vashi,NMMC,Standard,1,361,38,1,17,0.8
+Bandra West,BMC,Standard,2,966,3,1,15,5.54
+Kharghar,NMMC,Standard,1,498,35,1,1,0.9
+Worli,BMC,Standard,3,1077,25,1,1,8.3
+Kalyan,KDMC,Standard,1,444,14,1,0,0.44
+Vashi,NMMC,Luxury,5,4945,32,2,20,10.02
+Worli,BMC,Standard,1,374,15,1,3,2.58
+Andheri West,BMC,Standard,1,483,32,1,28,1.3
+Worli,BMC,Standard,1,354,19,1,1,2.59
+Mira Road,MBMC,Standard,2,810,15,1,8,0.97
+Kharghar,NMMC,Standard,1,422,28,1,29,0.47
+Bandra West,BMC,Standard,2,892,4,1,3,6.02
+Kharghar,NMMC,Standard,1,473,29,1,19,0.63
+Andheri West,BMC,Standard,2,824,37,1,19,2.69
+Bandra West,BMC,Standard,2,726,7,1,4,4.93
+Vashi,NMMC,Luxury,5,4925,46,3,20,11.08
+Vashi,NMMC,Standard,2,814,39,1,4,2.18
+Malabar Hill,BMC,Standard,3,1293,37,1,12,13.88
+Andheri West,BMC,Standard,1,488,21,1,19,1.4
+Kharghar,NMMC,Standard,1,383,18,1,7,0.56
+Bandra West,BMC,Standard,1,391,21,1,9,2.83
+Malabar Hill,BMC,Luxury,3,2157,20,2,1,29.1
+Malabar Hill,BMC,Luxury,4,3324,47,2,10,49.32
+Kharghar,NMMC,Standard,3,1284,17,1,27,1.36
+Kharghar,NMMC,Standard,1,436,37,1,7,0.74
+Thane West,TMC,Standard,2,916,24,1,2,1.91
+Thane West,TMC,Standard,2,814,31,1,13,1.56
+Andheri West,BMC,Standard,2,968,28,1,18,2.99
+Mira Road,MBMC,Standard,2,890,8,1,9,0.98
+Vashi,NMMC,Standard,2,860,31,1,7,2.08
+Thane West,TMC,Standard,1,398,36,1,29,0.61
+Andheri West,BMC,Standard,2,942,10,1,20,2.41
+Andheri West,BMC,Standard,3,1401,13,1,20,3.68
+Worli,BMC,Standard,1,495,9,1,24,2.38
+Thane West,TMC,Standard,2,926,22,1,19,1.51
+Andheri West,BMC,Standard,1,462,21,1,2,1.67
+Mira Road,MBMC,Luxury,5,3190,31,2,8,4.36
+Worli,BMC,Standard,1,475,8,1,13,2.68
+Thane West,TMC,Standard,1,435,22,1,10,0.81
+Kalyan,KDMC,Luxury,3,2604,21,3,28,1.81
+Borivali West,BMC,Standard,3,1332,15,1,18,2.53
+Kharghar,NMMC,Luxury,3,2631,56,2,28,3.69
+Malabar Hill,BMC,Standard,1,368,23,1,28,2.74
+Kharghar,NMMC,Standard,3,1380,8,1,9,1.78
+Mira Road,MBMC,Standard,1,354,3,1,0,0.42
+Andheri West,BMC,Standard,2,910,34,1,10,3.31
+Kalyan,KDMC,Standard,2,830,13,1,8,0.73
+Andheri West,BMC,Standard,3,1221,12,1,16,3.38
+Kalyan,KDMC,Luxury,3,1857,35,2,18,1.7
+Kharghar,NMMC,Standard,2,962,4,1,19,1.04
+Mira Road,MBMC,Luxury,5,3765,57,2,20,5.22
+Vashi,NMMC,Standard,1,387,4,1,27,0.55
+Kalyan,KDMC,Standard,2,840,4,1,28,0.5
+Bandra West,BMC,Standard,2,808,4,1,23,4.09
+Thane West,TMC,Standard,3,1227,19,1,16,2.03
+Bandra West,BMC,Standard,1,379,38,1,20,2.68
+Andheri West,BMC,Standard,2,886,33,1,17,2.89
+Andheri West,BMC,Standard,3,1188,11,1,24,2.87
+Vashi,NMMC,Standard,2,706,20,1,15,1.4
+Vashi,NMMC,Luxury,5,4790,45,2,15,11.55
+Borivali West,BMC,Standard,1,399,3,1,12,0.75
+Malabar Hill,BMC,Standard,2,860,19,1,9,8.31
+Bandra West,BMC,Standard,3,1326,37,1,19,9.46
+Malabar Hill,BMC,Standard,3,1347,6,1,25,9.05
+Andheri West,BMC,Standard,3,1434,24,1,24,3.89
+Andheri West,BMC,Standard,1,409,31,1,19,1.27
+Thane West,TMC,Standard,1,457,30,1,21,0.77
+Kharghar,NMMC,Standard,3,1407,10,1,15,1.7
+Vashi,NMMC,Standard,3,1257,9,1,12,2.35
+Andheri West,BMC,Standard,1,456,21,1,3,1.63
+Worli,BMC,Standard,1,476,15,1,17,2.71
+Thane West,TMC,Standard,1,498,26,1,11,0.94
+Thane West,TMC,Standard,2,814,21,1,17,1.35
+Borivali West,BMC,Standard,1,398,19,1,18,0.78
+Kalyan,KDMC,Luxury,3,2280,23,3,9,2.16
+Kalyan,KDMC,Luxury,5,4440,43,2,28,3.66
+Worli,BMC,Standard,2,870,17,1,1,6.26
+Vashi,NMMC,Standard,3,1269,21,1,4,2.94
+Worli,BMC,Standard,1,423,34,1,15,2.91
+Bandra West,BMC,Standard,2,874,38,1,27,5.5
+Mira Road,MBMC,Luxury,5,4590,51,2,6,7.46
+Borivali West,BMC,Standard,1,459,22,1,14,0.98
+Thane West,TMC,Standard,2,930,28,1,13,1.74
+Kalyan,KDMC,Standard,2,924,2,1,24,0.59
+Thane West,TMC,Standard,3,1338,35,1,5,2.94
+Kharghar,NMMC,Standard,3,1488,5,1,18,1.63
+Thane West,TMC,Standard,1,390,36,1,4,0.88
+Borivali West,BMC,Standard,2,984,18,1,9,2.18
+Andheri West,BMC,Standard,1,429,3,1,12,1.18
+Bandra West,BMC,Luxury,5,3195,52,3,27,27.78
+Malabar Hill,BMC,Standard,1,473,37,1,3,5.72
+Vashi,NMMC,Luxury,5,3155,31,2,10,7.35
+Kharghar,NMMC,Luxury,5,3540,40,2,29,4.36
+Worli,BMC,Standard,3,1224,27,1,4,9.24
+Kalyan,KDMC,Standard,1,497,34,1,25,0.4
+Borivali West,BMC,Luxury,3,2592,57,3,17,8.62
+Vashi,NMMC,Standard,1,488,2,1,14,0.85
+Kalyan,KDMC,Standard,2,960,12,1,27,0.62
+Mira Road,MBMC,Standard,1,383,18,1,25,0.36
+Kalyan,KDMC,Standard,2,732,5,1,11,0.57
+Bandra West,BMC,Standard,2,830,35,1,7,6.92
+Thane West,TMC,Standard,1,497,1,1,7,0.82
+Kharghar,NMMC,Standard,2,706,25,1,14,0.99
+Vashi,NMMC,Standard,1,406,14,1,3,0.9
+Malabar Hill,BMC,Standard,2,852,15,1,17,7.09
+Bandra West,BMC,Luxury,5,4090,46,2,1,49.85
+Thane West,TMC,Standard,1,421,35,1,18,0.77
+Andheri West,BMC,Standard,2,726,26,1,5,2.64
+Kharghar,NMMC,Standard,2,918,3,1,9,1.15
+Bandra West,BMC,Luxury,3,2778,28,3,26,20.57
+Kharghar,NMMC,Standard,2,982,38,1,20,1.39
+Andheri West,BMC,Standard,1,413,33,1,23,1.22
+Andheri West,BMC,Standard,2,854,30,1,8,3.09
+Andheri West,BMC,Standard,3,1053,22,1,8,3.56
+Thane West,TMC,Standard,1,411,30,1,11,0.8
+Bandra West,BMC,Standard,2,996,5,1,15,5.72
+Andheri West,BMC,Standard,2,972,4,1,2,3.04
+Malabar Hill,BMC,Standard,3,1071,23,1,14,9.99
+Thane West,TMC,Standard,2,792,15,1,8,1.42
+Bandra West,BMC,Luxury,3,2493,57,2,19,25.6
+Kalyan,KDMC,Standard,1,441,28,1,3,0.47
+Vashi,NMMC,Standard,3,1320,1,1,7,2.54
+Kharghar,NMMC,Standard,3,1482,12,1,5,2.09
+Mira Road,MBMC,Luxury,5,4895,20,3,24,4.81
+Malabar Hill,BMC,Standard,2,866,13,1,28,5.9
+Vashi,NMMC,Luxury,3,2367,39,3,27,4.5
+Malabar Hill,BMC,Standard,3,1233,9,1,23,8.82
+Borivali West,BMC,Standard,3,1110,39,1,22,2.41
+Kalyan,KDMC,Standard,2,992,11,1,12,0.81
+Malabar Hill,BMC,Standard,2,842,8,1,28,5.47
+Borivali West,BMC,Standard,2,788,26,1,6,1.95
+Mira Road,MBMC,Standard,3,1308,30,1,12,1.68
+Kharghar,NMMC,Standard,3,1485,2,1,3,2.0
+Malabar Hill,BMC,Standard,1,496,28,1,7,5.31
+Andheri West,BMC,Luxury,4,3368,58,2,1,20.36
+Kalyan,KDMC,Standard,3,1077,14,1,17,0.84
+Bandra West,BMC,Luxury,3,1914,22,3,19,15.13
+Vashi,NMMC,Standard,3,1440,16,1,29,2.19
+Thane West,TMC,Luxury,3,2601,20,2,22,3.96
+Mira Road,MBMC,Luxury,4,2592,50,2,24,3.21
+Kharghar,NMMC,Luxury,4,3532,37,2,3,6.29
+Bandra West,BMC,Standard,2,942,30,1,27,5.57
+Worli,BMC,Standard,2,856,23,1,7,6.01
+Mira Road,MBMC,Standard,1,473,33,1,23,0.53
+Kharghar,NMMC,Standard,1,356,4,1,4,0.47
+Thane West,TMC,Standard,3,1104,29,1,9,2.2
+Worli,BMC,Standard,1,475,11,1,16,2.64
+Malabar Hill,BMC,Standard,2,930,12,1,5,8.89
+Malabar Hill,BMC,Standard,1,418,30,1,23,3.59
+Thane West,TMC,Standard,3,1059,26,1,26,1.59
+Vashi,NMMC,Luxury,5,4165,25,2,26,7.22
+Borivali West,BMC,Standard,3,1422,37,1,9,3.68
+Borivali West,BMC,Standard,2,734,9,1,16,1.36
+Andheri West,BMC,Standard,3,1113,4,1,4,3.39
+Borivali West,BMC,Standard,2,916,22,1,20,1.79
+Kharghar,NMMC,Standard,1,458,21,1,13,0.63
+Borivali West,BMC,Luxury,5,4615,20,2,27,9.87
+Thane West,TMC,Luxury,3,2130,30,3,3,4.62
+Bandra West,BMC,Standard,2,862,22,1,24,5.03
+Thane West,TMC,Standard,1,434,8,1,27,0.54
+Borivali West,BMC,Standard,2,992,27,1,20,2.02
+Worli,BMC,Standard,2,978,21,1,21,5.52
+Kharghar,NMMC,Standard,2,738,12,1,5,1.04
+Malabar Hill,BMC,Luxury,4,3612,51,3,5,58.87
+Kharghar,NMMC,Standard,1,492,27,1,10,0.74
+Kalyan,KDMC,Standard,2,862,28,1,18,0.75
+Andheri West,BMC,Luxury,5,3235,28,2,7,14.58
+Andheri West,BMC,Standard,2,890,8,1,18,2.3
+Vashi,NMMC,Standard,1,380,16,1,17,0.71
+Vashi,NMMC,Standard,2,806,10,1,9,1.59
+Borivali West,BMC,Standard,3,1152,30,1,24,2.26
+Bandra West,BMC,Luxury,4,2848,26,3,29,19.66
+Kharghar,NMMC,Standard,1,386,1,1,14,0.45
+Borivali West,BMC,Standard,3,1431,9,1,0,3.27
+Andheri West,BMC,Standard,1,372,9,1,1,1.22
+Andheri West,BMC,Standard,1,448,8,1,2,1.44
+Worli,BMC,Standard,1,451,16,1,1,3.21
+Thane West,TMC,Standard,3,1419,16,1,5,2.67
+Worli,BMC,Standard,2,920,31,1,27,5.09
+Worli,BMC,Standard,3,1407,27,1,21,8.35
+Kharghar,NMMC,Standard,1,362,21,1,18,0.46
+Borivali West,BMC,Standard,2,760,17,1,22,1.38
+Kharghar,NMMC,Luxury,4,2436,27,3,21,3.11
+Andheri West,BMC,Standard,2,918,24,1,14,2.91
+Vashi,NMMC,Standard,1,408,23,1,7,0.93
+Worli,BMC,Standard,1,383,18,1,23,2.04
+Worli,BMC,Standard,1,398,15,1,24,2.03
+Malabar Hill,BMC,Standard,1,445,22,1,5,4.65
+Malabar Hill,BMC,Standard,3,1449,5,1,11,11.95
+Kalyan,KDMC,Standard,3,1410,1,1,10,1.12
+Bandra West,BMC,Standard,3,1347,18,1,14,8.86
+Bandra West,BMC,Standard,3,1383,12,1,18,8.12
+Borivali West,BMC,Standard,1,409,27,1,24,0.78
+Thane West,TMC,Standard,1,498,13,1,4,0.92
+Malabar Hill,BMC,Standard,1,374,30,1,8,4.01
+Borivali West,BMC,Standard,2,772,17,1,4,1.81
+Vashi,NMMC,Luxury,3,2862,37,2,13,6.7
+Bandra West,BMC,Standard,1,362,18,1,4,2.73
+Andheri West,BMC,Luxury,3,2784,30,3,21,10.41
+Thane West,TMC,Standard,2,872,34,1,8,1.83
+Thane West,TMC,Luxury,4,2408,25,3,11,4.51
+Borivali West,BMC,Standard,2,828,36,1,20,1.81
+Bandra West,BMC,Standard,3,1209,10,1,20,6.75
+Borivali West,BMC,Standard,1,451,24,1,1,1.17
+Vashi,NMMC,Standard,3,1440,38,1,16,3.25
+Vashi,NMMC,Standard,2,942,26,1,5,2.25
+Malabar Hill,BMC,Standard,2,906,28,1,25,7.41
+Vashi,NMMC,Standard,2,966,7,1,20,1.57
+Kalyan,KDMC,Standard,2,812,12,1,15,0.64
+Borivali West,BMC,Standard,3,1380,9,1,10,2.78
+Thane West,TMC,Standard,2,788,22,1,26,1.14
+Andheri West,BMC,Luxury,3,2268,53,3,27,9.08
+Kharghar,NMMC,Standard,2,906,9,1,22,0.97
+Borivali West,BMC,Standard,2,848,15,1,27,1.39
+Vashi,NMMC,Standard,1,455,26,1,24,0.82
+Mira Road,MBMC,Standard,1,453,4,1,14,0.45
+Malabar Hill,BMC,Standard,3,1218,31,1,8,13.18
+Worli,BMC,Standard,3,1299,11,1,23,6.48
+Vashi,NMMC,Standard,1,364,32,1,28,0.64
+Mira Road,MBMC,Standard,1,387,22,1,29,0.35
+Worli,BMC,Standard,1,352,30,1,5,2.69
+Thane West,TMC,Standard,1,424,13,1,17,0.66
+Vashi,NMMC,Standard,2,794,26,1,29,1.32
+Kalyan,KDMC,Standard,2,734,19,1,22,0.55
+Kharghar,NMMC,Standard,1,483,4,1,11,0.59
+Bandra West,BMC,Standard,1,366,16,1,1,2.81
+Worli,BMC,Standard,1,357,30,1,3,2.8
+Malabar Hill,BMC,Standard,2,866,24,1,17,7.79
+Vashi,NMMC,Luxury,3,2019,56,3,27,4.33
+Mira Road,MBMC,Luxury,3,2445,59,3,1,4.46
+Kharghar,NMMC,Standard,1,450,27,1,24,0.55
+Bandra West,BMC,Luxury,3,1827,28,3,21,14.71
+Thane West,TMC,Luxury,4,2912,44,3,28,4.84
+Kharghar,NMMC,Standard,1,466,30,1,2,0.8
+Bandra West,BMC,Luxury,5,4725,36,3,17,43.11
+Andheri West,BMC,Standard,2,862,4,1,0,2.76
+Worli,BMC,Luxury,4,3856,42,3,9,38.29
+Kalyan,KDMC,Standard,1,494,22,1,1,0.51
+Thane West,TMC,Standard,3,1464,21,1,2,2.98
+Mira Road,MBMC,Luxury,3,2361,26,2,25,2.4
+Thane West,TMC,Standard,2,744,20,1,14,1.28
+Worli,BMC,Standard,2,780,19,1,15,4.74
+Kharghar,NMMC,Standard,2,834,15,1,2,1.25
+Borivali West,BMC,Standard,1,376,36,1,1,1.07
+Thane West,TMC,Standard,3,1149,23,1,20,1.85
+Thane West,TMC,Standard,3,1332,6,1,4,2.31
+Kalyan,KDMC,Luxury,5,3510,40,3,28,2.83
+Andheri West,BMC,Standard,1,396,4,1,27,0.86
+Vashi,NMMC,Standard,2,980,23,1,25,1.7
+Worli,BMC,Luxury,3,1872,46,3,18,16.81
+Kalyan,KDMC,Standard,3,1401,36,1,6,1.53
+Thane West,TMC,Standard,2,730,31,1,9,1.48
+Mira Road,MBMC,Standard,1,358,17,1,10,0.42
+Mira Road,MBMC,Standard,1,397,25,1,26,0.39
+Borivali West,BMC,Standard,2,800,36,1,16,1.86
+Kalyan,KDMC,Standard,1,364,32,1,6,0.39
+Vashi,NMMC,Luxury,5,4885,36,2,1,13.28
+Kalyan,KDMC,Standard,1,355,20,1,19,0.28
+Borivali West,BMC,Luxury,5,3240,20,3,16,8.28
+Bandra West,BMC,Standard,2,890,4,1,17,4.96
+Malabar Hill,BMC,Standard,3,1281,33,1,13,13.15
+Worli,BMC,Standard,1,408,29,1,18,2.58
+Vashi,NMMC,Standard,3,1296,1,1,4,2.59
+Vashi,NMMC,Standard,3,1488,12,1,15,2.74
+Mira Road,MBMC,Luxury,5,3750,41,3,18,4.8
+Kalyan,KDMC,Standard,1,468,3,1,17,0.34
+Kharghar,NMMC,Luxury,4,3708,52,3,16,6.17
+Borivali West,BMC,Standard,1,494,6,1,0,1.1
+Borivali West,BMC,Standard,2,934,33,1,29,1.71
+Worli,BMC,Standard,2,944,2,1,29,4.0
+Kharghar,NMMC,Luxury,3,2049,26,3,14,2.89
+Kharghar,NMMC,Standard,2,806,29,1,23,1.01
+Andheri West,BMC,Standard,1,454,8,1,25,1.05
+Mira Road,MBMC,Standard,3,1254,28,1,29,1.21
+Kalyan,KDMC,Standard,2,840,3,1,9,0.67
+Worli,BMC,Standard,1,473,24,1,9,3.26
+Vashi,NMMC,Luxury,5,4470,48,2,14,11.17
+Vashi,NMMC,Standard,2,994,19,1,19,1.84
+Bandra West,BMC,Standard,1,383,22,1,2,3.06
+Vashi,NMMC,Standard,2,890,6,1,8,1.71
+Andheri West,BMC,Standard,1,414,19,1,25,1.06
+Kalyan,KDMC,Standard,3,1497,21,1,26,1.08
+Thane West,TMC,Standard,2,748,28,1,0,1.66
+Malabar Hill,BMC,Standard,3,1458,36,1,18,14.23
+Malabar Hill,BMC,Standard,2,790,32,1,5,8.96
+Vashi,NMMC,Standard,1,403,35,1,19,0.85
+Borivali West,BMC,Luxury,5,4350,48,3,26,11.77
+Kalyan,KDMC,Standard,3,1323,17,1,10,1.17
+Kalyan,KDMC,Standard,2,776,23,1,14,0.69
+Andheri West,BMC,Standard,1,459,5,1,10,1.29
+Worli,BMC,Standard,2,822,33,1,10,6.02
+Worli,BMC,Standard,1,431,38,1,18,2.92
+Andheri West,BMC,Luxury,3,2319,29,2,5,10.81
+Malabar Hill,BMC,Standard,3,1071,17,1,8,10.3
+Vashi,NMMC,Standard,1,377,33,1,21,0.76
+Borivali West,BMC,Standard,2,868,2,1,28,1.27
+Mira Road,MBMC,Standard,2,926,37,1,14,1.22
+Worli,BMC,Luxury,4,2952,32,3,3,29.36
+Vashi,NMMC,Standard,1,403,24,1,3,0.97
+Malabar Hill,BMC,Standard,2,940,1,1,5,8.39
+Vashi,NMMC,Standard,2,882,21,1,17,1.71
+Kharghar,NMMC,Standard,3,1296,35,1,3,2.27
+Borivali West,BMC,Standard,3,1128,23,1,24,2.08
+Borivali West,BMC,Standard,1,437,25,1,12,0.99
+Kharghar,NMMC,Standard,3,1446,36,1,13,2.24
+Mira Road,MBMC,Standard,1,429,33,1,16,0.53
+Borivali West,BMC,Luxury,4,2832,58,2,21,8.91
+Kalyan,KDMC,Luxury,4,2744,31,2,22,2.29
+Bandra West,BMC,Standard,1,378,37,1,22,2.57
+Andheri West,BMC,Standard,1,494,21,1,1,1.81
+Borivali West,BMC,Standard,2,998,33,1,29,1.83
+Malabar Hill,BMC,Standard,2,942,10,1,14,7.82
+Bandra West,BMC,Standard,2,754,11,1,13,4.72
+Kharghar,NMMC,Standard,1,496,15,1,29,0.5
+Thane West,TMC,Standard,2,764,33,1,18,1.38
+Bandra West,BMC,Standard,2,894,13,1,21,5.06
+Malabar Hill,BMC,Standard,2,794,29,1,6,8.68
+Thane West,TMC,Standard,1,418,26,1,16,0.74
+Bandra West,BMC,Standard,2,804,1,1,16,4.55
+Malabar Hill,BMC,Luxury,5,4260,34,2,28,43.33
+Borivali West,BMC,Standard,2,986,25,1,21,1.95
+Kalyan,KDMC,Standard,3,1305,16,1,8,1.18
+Bandra West,BMC,Standard,1,432,19,1,1,3.41
+Kalyan,KDMC,Luxury,5,3690,49,2,24,3.4
+Thane West,TMC,Standard,1,485,22,1,5,0.96
+Kalyan,KDMC,Standard,3,1395,18,1,1,1.4
+Vashi,NMMC,Standard,3,1416,29,1,2,3.6
+Bandra West,BMC,Standard,2,778,4,1,26,3.75
+Andheri West,BMC,Standard,1,445,27,1,29,1.13
+Worli,BMC,Standard,2,882,31,1,27,4.88
+Worli,BMC,Standard,2,970,9,1,25,4.59
+Mira Road,MBMC,Standard,2,776,32,1,25,0.83
+Andheri West,BMC,Standard,2,786,29,1,26,2.15
+Kharghar,NMMC,Standard,1,483,29,1,25,0.59
+Malabar Hill,BMC,Standard,2,740,26,1,3,8.2
+Mira Road,MBMC,Standard,2,850,13,1,10,0.97
+Vashi,NMMC,Standard,2,812,2,1,29,1.11
+Mira Road,MBMC,Standard,1,430,26,1,1,0.62
+Worli,BMC,Standard,3,1485,32,1,16,9.91
+Vashi,NMMC,Standard,2,820,1,1,29,1.12
+Borivali West,BMC,Standard,1,449,7,1,21,0.75
+Mira Road,MBMC,Standard,3,1443,32,1,22,1.62
+Kharghar,NMMC,Standard,1,450,20,1,11,0.63
+Malabar Hill,BMC,Standard,1,412,22,1,5,4.3
+Borivali West,BMC,Luxury,5,3020,25,3,24,7.1
+Thane West,TMC,Standard,2,906,13,1,5,1.66
+Worli,BMC,Luxury,5,3905,57,2,15,39.55
+Andheri West,BMC,Luxury,3,2658,51,2,28,10.31
+Mira Road,MBMC,Standard,2,888,15,1,15,0.96
+Malabar Hill,BMC,Luxury,5,3930,30,2,29,38.04
+Borivali West,BMC,Standard,1,463,32,1,3,1.25
+Kharghar,NMMC,Luxury,5,4770,35,2,4,8.26
+Borivali West,BMC,Standard,1,417,29,1,18,0.89
+Worli,BMC,Standard,1,369,19,1,22,2.01
+Thane West,TMC,Standard,1,377,5,1,26,0.47
+Borivali West,BMC,Luxury,4,3948,39,3,5,13.68
+Kalyan,KDMC,Standard,3,1485,27,1,22,1.2
+Vashi,NMMC,Standard,3,1110,5,1,22,1.72
+Kalyan,KDMC,Standard,3,1497,19,1,0,1.54
+Kharghar,NMMC,Standard,1,499,22,1,17,0.65
+Malabar Hill,BMC,Luxury,4,2844,34,2,11,37.82
+Thane West,TMC,Luxury,4,3060,47,2,23,5.66
+Mira Road,MBMC,Standard,1,386,38,1,1,0.61
+Andheri West,BMC,Standard,2,914,22,1,19,2.64
+Thane West,TMC,Standard,1,477,20,1,19,0.76
+Kharghar,NMMC,Luxury,4,3336,35,2,12,5.2
+Thane West,TMC,Standard,2,874,9,1,2,1.6
+Bandra West,BMC,Standard,3,1404,8,1,14,8.42
+Borivali West,BMC,Standard,1,402,12,1,16,0.76
+Malabar Hill,BMC,Luxury,4,2440,26,3,11,30.43
+Mira Road,MBMC,Standard,2,902,24,1,9,1.15
+Andheri West,BMC,Standard,2,772,8,1,7,2.33
+Thane West,TMC,Standard,1,485,29,1,29,0.71
+Thane West,TMC,Standard,1,398,36,1,28,0.62
+Andheri West,BMC,Standard,3,1293,38,1,23,3.98
+Thane West,TMC,Standard,2,936,11,1,27,1.21
+Borivali West,BMC,Standard,2,954,24,1,2,2.44
+Kharghar,NMMC,Standard,2,812,34,1,8,1.33
+Vashi,NMMC,Standard,2,928,12,1,7,1.91
+Malabar Hill,BMC,Luxury,5,4590,58,2,12,71.39
+Malabar Hill,BMC,Standard,3,1293,13,1,15,10.88
+Kalyan,KDMC,Standard,2,840,35,1,15,0.81
+Worli,BMC,Standard,2,876,32,1,29,4.71
+Thane West,TMC,Standard,3,1449,19,1,12,2.55
+Kalyan,KDMC,Standard,3,1209,4,1,27,0.74
+Kharghar,NMMC,Luxury,3,2277,57,2,5,4.55
+Thane West,TMC,Standard,1,480,34,1,15,0.91
+Vashi,NMMC,Standard,2,842,6,1,13,1.51
+Bandra West,BMC,Luxury,5,3375,50,2,28,28.43
+Borivali West,BMC,Standard,2,760,21,1,25,1.36
+Andheri West,BMC,Standard,1,362,20,1,19,1.03
+Malabar Hill,BMC,Standard,2,984,13,1,16,8.16
+Thane West,TMC,Standard,3,1374,23,1,13,2.46
+Thane West,TMC,Standard,1,362,39,1,4,0.83
+Malabar Hill,BMC,Standard,2,936,2,1,21,6.65
+Worli,BMC,Standard,2,724,32,1,17,4.76
+Worli,BMC,Standard,1,498,17,1,7,3.32
+Bandra West,BMC,Standard,3,1371,31,1,20,9.19
+Kharghar,NMMC,Standard,1,406,9,1,21,0.44
+Malabar Hill,BMC,Standard,2,716,32,1,14,7.19
+Malabar Hill,BMC,Standard,3,1455,8,1,26,9.8
+Malabar Hill,BMC,Standard,1,464,11,1,6,4.34
+Malabar Hill,BMC,Standard,2,868,23,1,23,7.04
+Vashi,NMMC,Standard,1,403,8,1,8,0.79
+Malabar Hill,BMC,Standard,1,398,21,1,18,3.44
+Worli,BMC,Standard,3,1098,6,1,18,5.65
+Thane West,TMC,Standard,3,1404,37,1,18,2.62
+Andheri West,BMC,Standard,1,392,36,1,25,1.15
+Andheri West,BMC,Standard,2,864,35,1,13,3.03
+Thane West,TMC,Standard,3,1191,33,1,11,2.38
+Thane West,TMC,Luxury,4,3948,46,3,8,9.06
+Thane West,TMC,Standard,1,491,25,1,1,1.05
+Bandra West,BMC,Standard,2,844,26,1,19,5.52
+Thane West,TMC,Standard,3,1062,3,1,25,1.34
+Malabar Hill,BMC,Standard,1,393,26,1,14,3.76
+Worli,BMC,Luxury,4,3756,42,3,3,40.3
+Kharghar,NMMC,Standard,1,438,2,1,29,0.4
+Bandra West,BMC,Standard,2,930,22,1,20,5.79
+Malabar Hill,BMC,Standard,2,918,15,1,13,8.1
+Kalyan,KDMC,Standard,1,482,6,1,16,0.35
+Kharghar,NMMC,Standard,3,1359,23,1,2,2.19
+Thane West,TMC,Standard,1,410,5,1,25,0.52
+Borivali West,BMC,Standard,1,451,29,1,4,1.17
+Kalyan,KDMC,Luxury,4,3836,49,3,10,4.37
+Kharghar,NMMC,Standard,2,948,28,1,25,1.14
+Kalyan,KDMC,Standard,2,760,25,1,11,0.71
+Malabar Hill,BMC,Standard,1,460,1,1,0,4.37
+Kalyan,KDMC,Standard,1,498,15,1,16,0.4
+Vashi,NMMC,Standard,1,357,17,1,16,0.68
+Vashi,NMMC,Standard,1,430,14,1,12,0.84
+Vashi,NMMC,Standard,1,421,15,1,21,0.73
+Malabar Hill,BMC,Standard,1,409,6,1,4,3.74
+Vashi,NMMC,Standard,2,750,5,1,25,1.1
+Andheri West,BMC,Standard,2,990,4,1,16,2.56
+Kalyan,KDMC,Standard,1,477,15,1,18,0.37
+Bandra West,BMC,Standard,1,449,35,1,25,2.86
+Thane West,TMC,Standard,2,840,1,1,2,1.48
+Andheri West,BMC,Standard,2,982,37,1,15,3.4
+Andheri West,BMC,Standard,1,493,4,1,12,1.35
+Mira Road,MBMC,Standard,3,1140,3,1,21,1.02
+Thane West,TMC,Standard,2,788,2,1,7,1.3
+Kharghar,NMMC,Luxury,5,3510,35,3,2,6.23
+Mira Road,MBMC,Standard,1,466,29,1,6,0.64
+Worli,BMC,Luxury,3,2250,49,2,5,24.75
+Thane West,TMC,Luxury,4,2828,48,3,22,5.36
+Vashi,NMMC,Standard,3,1413,32,1,8,3.41
+Borivali West,BMC,Luxury,4,2844,22,3,9,8.16
+Malabar Hill,BMC,Standard,1,430,19,1,4,4.43
+Vashi,NMMC,Luxury,5,3105,39,2,21,6.54
+Kharghar,NMMC,Standard,3,1056,9,1,27,1.04
+Kharghar,NMMC,Standard,2,844,23,1,9,1.24
+Bandra West,BMC,Luxury,3,1938,42,3,29,15.15
+Kalyan,KDMC,Standard,1,461,25,1,9,0.44
+Mira Road,MBMC,Standard,1,468,25,1,13,0.57
+Bandra West,BMC,Standard,1,448,11,1,10,2.93
+Borivali West,BMC,Luxury,3,2970,36,2,29,6.98
+Worli,BMC,Luxury,4,2612,30,2,15,21.75
+Malabar Hill,BMC,Standard,3,1317,16,1,5,13.05
+Kalyan,KDMC,Standard,1,397,12,1,27,0.26
+Andheri West,BMC,Luxury,4,3656,46,2,14,17.16
+Thane West,TMC,Luxury,5,4870,59,3,27,9.13
+Malabar Hill,BMC,Standard,1,385,21,1,7,3.89
+Borivali West,BMC,Standard,1,467,29,1,14,1.06
+Borivali West,BMC,Standard,1,420,37,1,28,0.81
+Bandra West,BMC,Standard,2,736,13,1,9,4.96
+Borivali West,BMC,Luxury,5,4550,48,3,19,13.81
+Kalyan,KDMC,Standard,1,499,32,1,15,0.47
+Worli,BMC,Standard,1,394,19,1,22,2.15
+Worli,BMC,Standard,2,898,22,1,19,5.27
+Andheri West,BMC,Standard,1,496,38,1,5,1.98
+Andheri West,BMC,Standard,3,1074,32,1,3,4.21
+Worli,BMC,Standard,1,475,11,1,4,3.12
+Vashi,NMMC,Standard,1,383,13,1,9,0.77
+Kalyan,KDMC,Standard,3,1488,30,1,2,1.63
+Kalyan,KDMC,Standard,2,888,32,1,1,1.0
+Andheri West,BMC,Standard,2,732,32,1,15,2.44
+Kharghar,NMMC,Luxury,5,3435,30,2,22,4.42
+Borivali West,BMC,Standard,1,399,12,1,16,0.76
+Malabar Hill,BMC,Standard,1,396,28,1,20,3.52
+Mira Road,MBMC,Standard,2,706,19,1,25,0.68
+Thane West,TMC,Standard,3,1083,3,1,9,1.74
+Malabar Hill,BMC,Luxury,3,2229,49,3,19,29.43
+Vashi,NMMC,Standard,1,359,33,1,12,0.83
+Thane West,TMC,Standard,1,371,20,1,17,0.61
+Kalyan,KDMC,Luxury,4,2752,31,3,7,2.86
+Kalyan,KDMC,Standard,1,445,34,1,15,0.42
+Andheri West,BMC,Standard,2,946,36,1,23,2.87
+Vashi,NMMC,Standard,2,854,2,1,28,1.19
+Borivali West,BMC,Standard,2,746,21,1,9,1.7
+Borivali West,BMC,Standard,1,477,12,1,21,0.84
+Thane West,TMC,Luxury,3,1863,35,3,28,2.89
+Andheri West,BMC,Standard,1,497,18,1,5,1.69
+Bandra West,BMC,Standard,2,986,5,1,3,6.65
+Borivali West,BMC,Standard,2,978,16,1,16,1.93
+Kharghar,NMMC,Standard,1,381,15,1,11,0.51
+Malabar Hill,BMC,Luxury,5,3215,24,3,12,38.89
+Andheri West,BMC,Standard,1,428,33,1,20,1.33
+Bandra West,BMC,Standard,1,381,13,1,26,1.98
+Andheri West,BMC,Standard,2,838,25,1,21,2.41
+Worli,BMC,Standard,1,438,8,1,22,2.16
+Malabar Hill,BMC,Standard,1,424,39,1,14,4.49
+Vashi,NMMC,Standard,2,730,35,1,19,1.54
+Bandra West,BMC,Luxury,4,2840,36,2,1,32.16
+Andheri West,BMC,Standard,1,480,35,1,4,1.9
+Andheri West,BMC,Standard,2,706,19,1,5,2.42
+Kalyan,KDMC,Standard,2,916,22,1,10,0.85
+Bandra West,BMC,Standard,2,878,26,1,22,5.47
+Kalyan,KDMC,Standard,1,388,12,1,14,0.31
+Kharghar,NMMC,Standard,2,720,38,1,1,1.32
+Bandra West,BMC,Standard,1,462,28,1,0,3.98
+Bandra West,BMC,Luxury,5,3255,26,3,10,30.33
+Kharghar,NMMC,Standard,1,451,12,1,10,0.59
+Bandra West,BMC,Luxury,4,3632,35,3,24,29.42
+Kalyan,KDMC,Luxury,4,2860,23,3,10,2.67
+Malabar Hill,BMC,Standard,1,441,23,1,12,4.23
+Kharghar,NMMC,Standard,2,812,26,1,24,0.98
+Vashi,NMMC,Standard,1,363,14,1,2,0.81
+Malabar Hill,BMC,Standard,1,442,15,1,13,3.9
+Thane West,TMC,Luxury,4,2820,57,2,22,5.68
+Kalyan,KDMC,Luxury,4,3744,29,3,9,3.73
+Kalyan,KDMC,Standard,2,802,33,1,0,0.92
+Borivali West,BMC,Standard,1,481,26,1,3,1.23
+Malabar Hill,BMC,Standard,1,384,8,1,28,2.49
+Thane West,TMC,Luxury,4,3372,46,2,13,7.22
+Kalyan,KDMC,Standard,1,365,35,1,14,0.36
+Andheri West,BMC,Standard,2,776,4,1,29,1.62
+Vashi,NMMC,Standard,2,770,18,1,25,1.28
+Borivali West,BMC,Standard,2,952,26,1,22,1.87
+Mira Road,MBMC,Standard,2,870,19,1,4,1.13
+Worli,BMC,Standard,3,1146,10,1,4,7.45
+Vashi,NMMC,Standard,1,498,12,1,22,0.82
+Malabar Hill,BMC,Standard,1,351,39,1,20,3.4
+Vashi,NMMC,Standard,1,457,31,1,25,0.85
+Andheri West,BMC,Standard,1,447,29,1,23,1.28
+Vashi,NMMC,Standard,3,1122,21,1,22,2.01
+Kharghar,NMMC,Standard,1,468,9,1,25,0.48
+Vashi,NMMC,Standard,2,782,32,1,26,1.43
+Mira Road,MBMC,Standard,1,472,3,1,18,0.44
+Mira Road,MBMC,Standard,1,355,12,1,14,0.38
+Vashi,NMMC,Standard,2,970,8,1,22,1.54
+Mira Road,MBMC,Standard,2,868,3,1,12,0.89
+Thane West,TMC,Standard,2,716,14,1,12,1.2
+Borivali West,BMC,Standard,1,451,34,1,8,1.16
+Vashi,NMMC,Standard,2,700,10,1,10,1.36
+Thane West,TMC,Standard,1,361,25,1,16,0.63
+Mira Road,MBMC,Standard,2,940,23,1,10,1.17
+Vashi,NMMC,Standard,3,1101,13,1,10,2.2
+Worli,BMC,Standard,1,441,27,1,14,2.91
+Kalyan,KDMC,Standard,1,417,34,1,15,0.4
+Bandra West,BMC,Luxury,4,3516,58,3,29,30.69
+Borivali West,BMC,Standard,1,460,18,1,1,1.13
+Mira Road,MBMC,Standard,2,824,12,1,14,0.88
+Worli,BMC,Standard,2,992,35,1,6,7.78
+Borivali West,BMC,Standard,3,1182,24,1,8,2.8
+Malabar Hill,BMC,Standard,3,1104,18,1,11,10.29
+Kharghar,NMMC,Standard,2,764,19,1,27,0.82
+Andheri West,BMC,Luxury,3,1908,54,3,1,11.24
+Bandra West,BMC,Standard,2,950,23,1,27,5.3
+Vashi,NMMC,Standard,2,790,8,1,11,1.48
+Kharghar,NMMC,Luxury,3,2643,40,3,24,3.56
+Kalyan,KDMC,Standard,1,413,23,1,10,0.39
+Kharghar,NMMC,Standard,3,1485,23,1,14,2.04
+Malabar Hill,BMC,Standard,1,440,18,1,23,3.42
+Bandra West,BMC,Luxury,5,3845,39,2,26,31.02
+Vashi,NMMC,Standard,2,812,31,1,20,1.63
+Mira Road,MBMC,Standard,1,436,20,1,4,0.57
+Vashi,NMMC,Standard,2,748,6,1,10,1.4
+Kalyan,KDMC,Standard,1,424,14,1,1,0.41
+Thane West,TMC,Standard,2,736,18,1,16,1.21
+Andheri West,BMC,Standard,2,700,36,1,24,2.09
+Malabar Hill,BMC,Luxury,5,4720,53,3,28,55.08
+Bandra West,BMC,Luxury,3,1845,28,3,0,19.86
+Mira Road,MBMC,Standard,1,453,18,1,1,0.61
+Kalyan,KDMC,Standard,2,942,6,1,8,0.77
+Kharghar,NMMC,Standard,2,734,24,1,19,0.94
+Kalyan,KDMC,Standard,1,358,9,1,25,0.23
+Andheri West,BMC,Standard,1,470,5,1,22,1.11
+Borivali West,BMC,Standard,2,702,29,1,12,1.64
+Andheri West,BMC,Luxury,4,3152,27,2,2,15.01
+Kalyan,KDMC,Standard,1,391,13,1,3,0.37
+Thane West,TMC,Standard,1,422,7,1,1,0.77
+Vashi,NMMC,Standard,1,389,39,1,20,0.83
+Kharghar,NMMC,Standard,1,438,31,1,17,0.62
+Andheri West,BMC,Standard,1,479,25,1,12,1.57
+Mira Road,MBMC,Standard,1,419,3,1,25,0.35
+Bandra West,BMC,Standard,2,836,19,1,21,4.99
+Bandra West,BMC,Standard,3,1431,24,1,8,10.78
+Andheri West,BMC,Standard,1,384,14,1,16,1.08
+Bandra West,BMC,Luxury,5,3145,44,2,15,31.37
+Vashi,NMMC,Standard,1,429,19,1,9,0.92
+Malabar Hill,BMC,Standard,3,1077,34,1,3,12.72
+Kalyan,KDMC,Luxury,4,3256,48,3,29,2.73
+Kalyan,KDMC,Standard,2,848,26,1,18,0.72
+Worli,BMC,Standard,1,427,26,1,15,2.75
+Borivali West,BMC,Standard,1,408,8,1,18,0.72
+Andheri West,BMC,Standard,2,840,9,1,12,2.39
+Malabar Hill,BMC,Standard,1,384,3,1,21,2.73
+Thane West,TMC,Luxury,3,2454,57,3,6,6.23
+Kharghar,NMMC,Standard,3,1398,33,1,17,1.99
+Andheri West,BMC,Standard,1,482,32,1,2,1.91
+Andheri West,BMC,Luxury,5,3575,50,3,16,16.75
+Thane West,TMC,Standard,2,856,15,1,5,1.59
+Worli,BMC,Standard,1,480,13,1,8,3.05
+Worli,BMC,Standard,1,465,13,1,0,3.26
+Worli,BMC,Standard,1,470,29,1,1,3.74
+Worli,BMC,Standard,3,1161,14,1,7,7.53
+Vashi,NMMC,Standard,2,876,30,1,28,1.53
+Andheri West,BMC,Standard,2,768,37,1,15,2.66
+Worli,BMC,Standard,2,732,16,1,25,3.7
+Kharghar,NMMC,Standard,2,886,6,1,16,1.01
+Kharghar,NMMC,Luxury,3,2241,35,3,18,3.2
+Kalyan,KDMC,Standard,2,830,9,1,10,0.68
+Andheri West,BMC,Standard,1,459,33,1,17,1.5
+Kharghar,NMMC,Luxury,3,1800,23,3,3,2.87
+Worli,BMC,Standard,2,754,36,1,27,4.34
+Vashi,NMMC,Standard,1,463,24,1,23,0.84
+Malabar Hill,BMC,Standard,3,1386,37,1,10,15.29
+Kharghar,NMMC,Luxury,3,2034,42,3,21,2.92
+Bandra West,BMC,Standard,2,832,7,1,23,4.3
+Worli,BMC,Luxury,4,3168,48,3,20,27.97
+Mira Road,MBMC,Standard,1,425,6,1,19,0.4
+Thane West,TMC,Standard,3,1386,24,1,14,2.47
+Kharghar,NMMC,Standard,2,818,35,1,29,0.97
+Vashi,NMMC,Luxury,4,2564,20,3,29,4.04
+Worli,BMC,Standard,1,491,23,1,24,2.68
+Thane West,TMC,Standard,2,992,34,1,2,2.25
+Worli,BMC,Standard,3,1242,1,1,26,5.55
+Borivali West,BMC,Luxury,5,3300,59,3,25,9.78
+Malabar Hill,BMC,Luxury,5,4360,42,2,6,65.82
+Borivali West,BMC,Standard,1,395,4,1,13,0.73
+Kharghar,NMMC,Standard,2,948,17,1,4,1.42
+Vashi,NMMC,Standard,2,956,6,1,18,1.59
+Worli,BMC,Standard,1,372,26,1,12,2.5
+Kharghar,NMMC,Standard,3,1338,15,1,3,1.99
+Kharghar,NMMC,Standard,3,1230,2,1,22,1.27
+Mira Road,MBMC,Standard,3,1404,16,1,13,1.58
+Mira Road,MBMC,Standard,2,766,33,1,8,1.06
+Kalyan,KDMC,Luxury,5,4565,50,3,17,4.74
+Kharghar,NMMC,Luxury,3,2607,51,3,5,5.01
+Kharghar,NMMC,Standard,3,1494,17,1,0,2.34
+Mira Road,MBMC,Luxury,5,3845,31,2,23,4.21
+Kalyan,KDMC,Standard,2,754,17,1,13,0.64
+Worli,BMC,Standard,1,463,7,1,12,2.63
+Kalyan,KDMC,Standard,1,423,25,1,4,0.43
+Borivali West,BMC,Standard,1,459,33,1,16,1.04
+Thane West,TMC,Luxury,4,3804,43,2,8,8.54
+Andheri West,BMC,Luxury,3,2715,49,3,7,14.32
+Mira Road,MBMC,Standard,2,846,17,1,17,0.91
+Mira Road,MBMC,Standard,3,1293,17,1,8,1.57
+Malabar Hill,BMC,Standard,1,497,9,1,12,4.2
+Borivali West,BMC,Luxury,4,2500,45,2,25,6.74
+Malabar Hill,BMC,Standard,2,782,19,1,16,6.84
+Malabar Hill,BMC,Standard,1,480,26,1,2,5.39
+Thane West,TMC,Standard,3,1068,36,1,15,2.07
+Thane West,TMC,Luxury,4,2912,44,2,9,6.5
+Vashi,NMMC,Standard,2,882,6,1,15,1.53
+Andheri West,BMC,Standard,2,784,26,1,25,2.12
+Kharghar,NMMC,Standard,1,412,3,1,19,0.45
+Andheri West,BMC,Standard,3,1473,30,1,16,4.76
+Mira Road,MBMC,Standard,2,950,34,1,11,1.28
+Mira Road,MBMC,Standard,2,830,9,1,22,0.76
+Kharghar,NMMC,Standard,1,479,20,1,19,0.6
+Bandra West,BMC,Standard,2,898,14,1,15,5.62
+Bandra West,BMC,Standard,2,966,13,1,3,7.04
+Vashi,NMMC,Standard,3,1398,7,1,15,2.46
