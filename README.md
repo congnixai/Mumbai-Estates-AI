@@ -1,8 +1,8 @@
 # 🏙️ Mumbai Metropolitan AI: Hyper-Local Real Estate Intelligence
 
-[](https://www.google.com/search?q=https://mumbai-estates-ai.streamlit.app)
-[](https://www.python.org/downloads/)
-[](https://opensource.org/licenses/MIT)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mumbai-estates-ai.streamlit.app)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A high-fidelity end-to-end Machine Learning solution engineered to provide precise, real-time valuations for residential properties across the Mumbai Metropolitan Region (MMR). This system navigates the complex multi-municipal landscape of Mumbai (BMC, NMMC, TMC, etc.) using **XGBoost Regression** to deliver bank-grade valuation reports.
 
@@ -24,7 +24,7 @@ Valuing property in Mumbai—the world's most dense real estate market—require
 
 | **AI Intelligence Terminal (UI)** | **Generated Valuation Report (PDF)** |
 | :--- | :--- |
-|  |  |
+| ![AI Terminal](Screenshots/Application.png) | ![Valuation Report](Screenshots/Report.png) |
 | *Real-time dashboard with Plotly gauges and Radar scorecards.* | *Professional PDF with AI insights and digital signature.* |
 
 -----
@@ -76,7 +76,7 @@ Mumbai real estate data is notoriously right-skewed due to ultra-luxury outliers
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/shubham-sharma/mumbai-real-estate-ai.git
+git clone https://github.com/congnixai/Mumbai-Estates-AI.git
 cd mumbai-real-estate-ai
 ```
 
